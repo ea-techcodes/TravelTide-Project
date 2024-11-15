@@ -1,5 +1,5 @@
 
-![Binary Code Presentation in Bright Colors Funky Retro Style](https://github.com/ea-techcodes/TravelTide-Project/blob/main/TRAVEL.png)
+![Binary Code Presentation in Bright Colors Funky Retro Style](https://github.com/ea-techcodes/TravelTide-Project/blob/main/TRAVEL-2.png)
 <p align="center">
 
 <h2 align="center">TravelTide E-booking startup was founded by Kevin Talanick, a hot new player in the online travel industry. Founded at the tail end of the COVID-19 pandemic (2021-04) and has experienced steady growth since it was founded at the tail end of the COVID-19 pandemic (2021-04) on the strength of its data aggregation and search technology, which is best in class. 
