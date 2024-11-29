@@ -10,4 +10,6 @@
 
 Elena’s primary goal is to create a personalized rewards program that keeps customers loyal to TravelTide. Achieving this requires a deep understanding of customer behavior, making collaboration with the data team essential for success. By leveraging these insights, Elena aims to deliver a standout program that resonates with customers. </p>
 
+Video Presentation: https://www.loom.com/share/124e949abc17492c828a156fdcbb4fd0?sid=e31d1b11-5f37-4eac-9a32-eca753d31abf 
+
 <p align="center">still WORK IN PROGRESS therefore, this space is TO BE UPDATED! </p>
